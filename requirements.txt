@@ -1,0 +1,10 @@
+torch==1.12.0
+transformers==4.20.1
+pyemd==0.5.1
+streamlit==1.10.0
+attrs==21.4.0
+jinja2==3.1.2
+jsonschema==4.7.2
+pyrsistent==0.18.1
+transformers-interpret==0.7.2
+-e .
